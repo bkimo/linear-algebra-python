@@ -1,0 +1,11 @@
+name: dm_travis_anaconda_jupyter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6
+  - jupyter
+  - matplotlib
+  - ipywidgets
+  - numpy
+  - pytest
