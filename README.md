@@ -13,10 +13,12 @@ What is Jupyter?,Launching a Jupyter notebook, Cells, Code cells, Display of gra
 #### [Tutorial 2](tutorial_2_Latex.ipynb): Introduction to LaTeX for Jupyter notebook
 Basic inline Latex, Displaying equations on separate lines, Fractions (and an example of fine-tuning), Grouping operators (and more fine-tuning), Matrices and arrays, Using Latex in figures, Useful Latex symbols
 
-#### [Lab 1](numpy_matrix.ipynb): Matrix Algebra with Numpy
+#### [Lab 1](lab1_numpy_matrix.ipynb): Matrix Algebra with Numpy
 What is a matrix?, Matrices in Python, NumPy Array, Array of integers, floats and complex Numbers, Array of zeros and ones,  Manipulating arrays with reshape(), Matrix Operations, Access matrix elements, rows and columns, N-dimensional Arrays,  
 
-
-#### [Lab 2]
+#### [Lab 2](lab2_linear_transformations_2d.ipynb): Two-Dimensional (2D) Linear Transformations
+Vectors, Dot product, Matrix-vector multiplication,  Matrix-matrix multiplication, Inverse of a matrix, Linear transformation on images
 
 #### [Lab 3]
+
+#### [Lab 4]
